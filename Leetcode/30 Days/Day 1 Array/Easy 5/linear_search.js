@@ -11,7 +11,6 @@ const findZero = function(arr,target){
             // break;
         }
     }
-
 }
 
 findZero(arr,target)
